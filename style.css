@@ -1,0 +1,61 @@
+.heading
+{
+    width: 100%;
+    font-size: 22px;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 0px;
+    font-family: comic sans ms;
+}
+
+.heading_div
+{
+    float: none;
+    background-color: white;
+    color: teal;
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px grey;
+    padding: 10px;
+}
+
+.heading_div2
+{
+    font-size: 18px;
+    font-family: yeon sung;
+}
+
+.result_para_tag
+{
+    box-shadow: 2px 2px 2px grey;
+    font-size: 20px;
+}
+
+.result_para_tag span
+{
+    white-space: pre-line;
+}
+
+canvas
+{
+    box-shadow: 5px 5px 5px grey;
+    border: 5px ridge red;
+    margin-top: 140px;
+    border-radius: 10px;
+}
+
+.copyright_footer
+{
+    bottom: 0px;
+    line-height: 3;
+    color: white;
+    background-color: grey;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    font-family: product sans;
+}
+
+.heading_div span
+{
+    white-space: pre-line;
+}
